@@ -5,12 +5,35 @@ I'm Vikum Sanjeewa. I'm a software engineer who loves to make open-source projec
 - 🔭 I’m currently studying on [💻 IIT](http://iit.ac.lk/),
 - 👯 I’m looking to collaborate on Java projects
 - 💬 Ask me about web
-- 📫 How to reach me: 
+- 🌱 I’m currently learning flutter and react 👓
 
+
+### Connect with me:
+
+[<img align="left" alt="DanushkaHerath" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="DanushkaHerath | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="DanushkaHerath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DanushkaHerath | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Facebook]
+<!--
+[<img align="left" alt="DanushkaHerath | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][StackOverFlow]
+[<img align="left" alt="DanushkaHerath | gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gitlab.svg" />][gitlab]
+-->
+<br/><br/>
+![Vikum's github stats](https://github-readme-stats.vercel.app/api?username=vikumkbv&show_icons=true&theme=dracula)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikumkbv&layout=compact).
+
+[website]: https://vikumkbv.github.io
+[twitter]: https://twitter.com/vikumkbv
+[linkedin]: https://www.linkedin.com/in/vikumkbv
+[Facebook]: https://www.facebook.com/vikum.sanjeewa
+<!--
+[StackOverFlow]: https://stackoverflow.com/users/5606759/danushka-herath
+[gitlab]: https://gitlab.com/vikumkbv
+-->
+<!--
 [![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:vikumkbv@gmail.com) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/vikumkbv) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/vikumkbv)
 
 
-<!--
 **vikumkbv/vikumkbv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
