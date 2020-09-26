@@ -5,7 +5,7 @@ I'm Vikum Sanjeewa. I'm a software engineer who loves to make open-source projec
 - 🔭 I’m currently studying on [💻 IIT](http://iit.ac.lk/),
 - 👯 I’m looking to collaborate on Java projects
 - 💬 Ask me about web
-- 🌱 I’m currently learning flutter and react 👓
+<!-- - 🌱 I’m currently learning flutter and react 👓 -->
 
 
 ### Connect with me:
