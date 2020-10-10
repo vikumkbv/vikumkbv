@@ -26,6 +26,11 @@ I'm Vikum Sanjeewa. I'm a software engineer who loves to make open-source projec
 [twitter]: https://twitter.com/vikumkbv
 [linkedin]: https://www.linkedin.com/in/vikumkbv
 [Facebook]: https://www.facebook.com/vikum.sanjeewa
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 <!--
 [StackOverFlow]: https://stackoverflow.com/users/5606759/danushka-herath
 [gitlab]: https://gitlab.com/vikumkbv
