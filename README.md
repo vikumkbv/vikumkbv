@@ -29,7 +29,9 @@ I'm Vikum Sanjeewa. I'm a software engineer who loves to make open-source projec
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 <!--
 [StackOverFlow]: https://stackoverflow.com/users/5606759/danushka-herath
