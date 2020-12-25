@@ -39,6 +39,12 @@ Java    18 mins         █▓░░░░░░░░░░░░░░░░�
 CSS     12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 ```
 <!--END_SECTION:waka-->
+
+<hr>
+<p  align="center">
+<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=vikumkbv.vikumkbv" alt="visitor badge"/>       
+</p>
 <!--
 [StackOverFlow]: https://stackoverflow.com/users/5606759/danushka-herath
 [gitlab]: https://gitlab.com/vikumkbv
