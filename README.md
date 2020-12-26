@@ -40,6 +40,9 @@ CSS     12 mins         █░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+### Spotify Playing 🎧
+[![Spotify](https://spotify-now-playing-dusky.vercel.app/api/spotify-playing)](https://open.spotify.com/user/c4gfqvi32p14b0v8svpmrpui2)
+
 <hr>
 <p  align="center">
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
