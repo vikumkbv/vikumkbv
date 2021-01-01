@@ -10,7 +10,7 @@ I'm Vikum Sanjeewa. I'm a software engineer who loves to make open-source projec
 <!-- - 🌱 I’m currently learning flutter and react 👓 -->
 
 
-### Connect with me:
+### Connect with me: <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
 [<img align="left" alt="vikumkbv" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="vikumkbv | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
