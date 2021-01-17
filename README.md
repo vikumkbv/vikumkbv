@@ -32,8 +32,8 @@ I'm Vikum Sanjeewa. I'm a software engineer who loves to make open-source projec
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-PHP          13 mins         ████████████████░░░░░░░░░   64.43 % 
-JavaScript   7 mins          ████████▒░░░░░░░░░░░░░░░░   33.24 % 
+PHP          1 hr 9 mins     ████████████▓░░░░░░░░░░░░   51.06 % 
+JavaScript   1 hr 6 mins     ████████████░░░░░░░░░░░░░   48.35 % 
 ```
 <!--END_SECTION:waka-->
 
