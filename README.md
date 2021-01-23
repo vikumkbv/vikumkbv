@@ -41,7 +41,7 @@ HTML         6 mins          █▒░░░░░░░░░░░░░░░
 ### Spotify Playing 🎧
 <!-- [![Spotify](https://spotify-now-playing-dusky.vercel.app/api/spotify-playing)](https://open.spotify.com/user/c4gfqvi32p14b0v8svpmrpui2) -->
 
-[<img src="https://readme-spotify-status.vikumkbv.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/c4gfqvi32p14b0v8svpmrpui2)
+[<img src="https://readme-spotify-status.vikumkbv.vercel.app/api/run-spotify-status" alt="Your alt what" width="400" />](https://open.spotify.com/user/c4gfqvi32p14b0v8svpmrpui2)
 
 
 <hr>
