@@ -32,7 +32,9 @@ I'm Vikum Sanjeewa. I'm a software engineer who loves to make open-source projec
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML   26 mins         █████████████████▒░░░░░░░   69.42 % 
+Go     8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.90 % 
+Lua    1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 ```
 <!--END_SECTION:waka-->
 
