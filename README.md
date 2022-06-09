@@ -3,11 +3,11 @@
 ![](https://github.com/vikumkbv/vikumkbv/blob/master/icons/header_.png)
 
 I'm Vikum Sanjeewa. I'm a software engineer who loves to make open-source projects, and work with cloud related technologies.
-
+<!-- -
 - 🔭 I’m currently studying on [💻 IIT](http://iit.ac.lk/),
 - 👯 I’m looking to collaborate on Java projects
 - 💬 Ask me about web
-<!-- - 🌱 I’m currently learning flutter and react 👓 -->
+ 🌱 I’m currently learning flutter and react 👓 -->
 
 
 ### Connect with me: <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
@@ -29,17 +29,6 @@ I'm Vikum Sanjeewa. I'm a software engineer who loves to make open-source projec
 [linkedin]: https://www.linkedin.com/in/vikumkbv
 [Facebook]: https://www.facebook.com/vikum.sanjeewa
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-### Spotify Playing 🎧
-<!-- [![Spotify](https://spotify-now-playing-dusky.vercel.app/api/spotify-playing)](https://open.spotify.com/user/c4gfqvi32p14b0v8svpmrpui2) -->
-
-[<img src="https://readme-spotify-status.vikumkbv.vercel.app/api/run-spotify-status" alt="Your alt what" width="400" />](https://open.spotify.com/user/c4gfqvi32p14b0v8svpmrpui2)
 
 
 <hr>
